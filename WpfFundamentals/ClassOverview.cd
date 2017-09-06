@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WpfFundamentals.Controls.PopupButton">
+    <Position X="0.75" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>CAAYQhAAAABAGAAAAEEBBJAAAwAAEgMAIAgAARBECCg=</HashCode>
+      <FileName>Controls\PopupButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfFundamentals.Controls.SelectionCombo">
+    <Position X="4.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>gkAoAAAEAAAQA0VAmUAgNIASBUAAADAIFkICCKACMOA=</HashCode>
+      <FileName>Controls\SelectionCombo.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfFundamentals.Controls.ListToVisibilityConverter" BaseTypeListCollapsed="true">
+    <Position X="27.25" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controls\SelectionComboBindingManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfFundamentals.Controls.SpinningControl">
+    <Position X="1.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controls\SpinningControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfFundamentals.ViewModelBase.ExecutedEventHandlerArgs&lt;T&gt;">
+    <Position X="22.5" Y="10.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModelBase\DelegateCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfFundamentals.ViewModelBase.DelegateCommand&lt;T&gt;">
+    <Position X="18.25" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAEAAAQAECAAQAAEAAAAAEAAAAIAAAAAAAQAAAAAA=</HashCode>
+      <FileName>ViewModelBase\DelegateCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WpfFundamentals.ViewModelBase.DelegateCommand">
+    <Position X="18.25" Y="5.75" Width="2.5" />
+    <InheritanceLine Type="WpfFundamentals.ViewModelBase.DelegateCommand&lt;T&gt;" FixedToPoint="true">
+      <Path>
+        <Point X="19.5" Y="4.988" />
+        <Point X="19.5" Y="5.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModelBase\DelegateCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfFundamentals.ViewModelBase.Presenter&lt;TView&gt;">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModelBase\Presenter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WpfFundamentals.ViewModelBase.ViewModel">
+    <Position X="12.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAEAAIAAAAAAAgAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModelBase\ViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WpfFundamentals.ViewModelBase.ViewModel&lt;T&gt;">
+    <Position X="12.75" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgQACAAAAA=</HashCode>
+      <FileName>ViewModelBase\ViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfFundamentals.Converter.BoolConverter" BaseTypeListCollapsed="true">
+    <Position X="24.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgQAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Converter\BoolConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfFundamentals.Converter.DebugConverter" BaseTypeListCollapsed="true">
+    <Position X="24.5" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Converter\DebugConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfFundamentals.Converter.ListToStringConverter" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAEAAAAIIAAIAAAAgAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Converter\ListToStringConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfFundamentals.Converter.NullableConverter.NullableConverter&lt;T&gt;">
+    <Position X="22.25" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Converter\NullableConverter\NullableConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WpfFundamentals.Converter.NullableConverter.NullableIntConverter">
+    <Position X="22.25" Y="3.5" Width="1.75" />
+    <InheritanceLine Type="WpfFundamentals.Converter.NullableConverter.NullableConverter&lt;T&gt;" FixedToPoint="true">
+      <Path>
+        <Point X="23.125" Y="2.738" />
+        <Point X="23.125" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Converter\NullableConverter\NullableIntConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfFundamentals.Helper.DeferredAction" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\DeferredAction.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfFundamentals.Helper.DispatcherExtensions">
+    <Position X="26.5" Y="6.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\DispatcherExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfFundamentals.Helper.EnumerableExtensions">
+    <Position X="22.5" Y="6.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAABAAAAAAAABAAAAAAAACAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Helper\EnumerableExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfFundamentals.Helper.ExceptionHelper">
+    <Position X="22.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\ExceptionHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfFundamentals.Helper.SyncedList&lt;TModel, TViewModel&gt;">
+    <Position X="12.5" Y="7" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAQAAACAAAIRAAAIAgBEAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Helper\SyncedList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfFundamentals.Helper.SyncedViewModelList&lt;TModel, TViewModel&gt;">
+    <Position X="16.25" Y="8" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Helper\SyncedList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfFundamentals.Controls.SelectionComboBindingManager">
+    <Position X="8.5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>gAAgBIgQQEIWACAAgAEgQAAABAAUAC6gJyACAAAAhKA=</HashCode>
+      <FileName>Controls\SelectionComboBindingManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
